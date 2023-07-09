@@ -1,0 +1,11 @@
+   0 pwd
+   1 cd /tmp
+   2 vi /tmp/file.txt
+   3 ls
+   4 df -h | head -3 >> /tmp/file.txt
+   5 cat /tmp/file.txt
+   6 ls -l /tmp/file.txt
+   7 chmod 265 /tmp/file.txt
+   8 ls -l /tmp/file.txt
+   9 history
+  10 history > history 9.txt
